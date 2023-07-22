@@ -10,10 +10,7 @@ layout: bullets
 ```tsx
 const Button = () => {
   return (
-    <button
-      className="bg-blue-500 text-white text-lg font-bold py-2 px-4 rounded shadow-sm hover:bg-blue-700"
-      type="button"
-    >
+    <button className="bg-blue-500 text-white text-lg font-bold py-2 px-4 rounded shadow-sm hover:bg-blue-700">
       Click me
     </button>
   );

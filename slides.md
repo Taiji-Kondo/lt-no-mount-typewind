@@ -45,3 +45,7 @@ src: './pages/typewind.md'
 ---
 src: './pages/what-is-typewind.md'
 ---
+
+---
+src: './pages/typewind-pros.md'
+---
