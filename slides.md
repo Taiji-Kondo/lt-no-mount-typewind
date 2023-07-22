@@ -11,6 +11,14 @@ src: './pages/profile.md'
 ---
 
 ---
+src: './pages/do-you-use-typescript.md'
+---
+
+---
+src: './pages/typescript-feature.md'
+---
+
+---
 src: './pages/do-you-use-tailwind.md'
 ---
 
@@ -20,12 +28,4 @@ src: './pages/tailwind-pros.md'
 
 ---
 src: './pages/tailwind-cons.md'
----
-
----
-src: './pages/do-you-use-typescript.md'
----
-
----
-src: './pages/typescript-feature.md'
 ---
