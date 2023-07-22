@@ -21,3 +21,7 @@ src: './pages/tailwind-pros.md'
 ---
 src: './pages/tailwind-cons.md'
 ---
+
+---
+src: './pages/do-you-use-typescript.md'
+---
