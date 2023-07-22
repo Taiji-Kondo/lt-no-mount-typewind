@@ -1,0 +1,7 @@
+---
+layout: statement
+---
+
+それが
+
+# Typewind
