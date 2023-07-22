@@ -14,6 +14,8 @@ src: './pages/profile.md'
 src: './pages/do-you-use-tailwind.md'
 ---
 
+[//]: # (TODO: Tailwindを簡単に説明)
+
 ---
 src: './pages/tailwind-pros.md'
 ---
@@ -25,6 +27,8 @@ src: './pages/tailwind-cons.md'
 ---
 src: './pages/do-you-use-typescript.md'
 ---
+
+[//]: # (TODO: TypeScriptを簡単に説明)
 
 ---
 src: './pages/typescript-feature.md'

@@ -2,6 +2,6 @@
 layout: statement
 ---
 
-それが
+それを叶えてくれるのが
 
 # Typewind
