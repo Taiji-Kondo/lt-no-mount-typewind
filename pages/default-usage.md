@@ -1,5 +1,5 @@
 ---
-layout: center
+layout: default
 ---
 
 # 基本

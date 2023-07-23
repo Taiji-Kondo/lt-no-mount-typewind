@@ -57,3 +57,7 @@ src: './pages/how-to-use.md'
 ---
 src: './pages/default-usage.md'
 ---
+
+---
+src: './pages/modifiers.md'
+---
