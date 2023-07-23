@@ -49,3 +49,7 @@ src: './pages/what-is-typewind.md'
 ---
 src: './pages/typewind-pros.md'
 ---
+
+---
+src: './pages/how-to-use.md'
+---
