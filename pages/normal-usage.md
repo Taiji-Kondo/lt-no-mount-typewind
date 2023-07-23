@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 基本
+# Normal Usage
 
 - Typewindから提供される`tw`オブジェクトにアクセス、チェーンすることでTailwindのクラスを呼び出せる
 - `tw`は`tailwind.config.js`の設定を元にしているので独自で定義したカラーパレット等も呼び出し可能

@@ -55,7 +55,7 @@ src: './pages/how-to-use.md'
 ---
 
 ---
-src: './pages/default-usage.md'
+src: './pages/normal-usage.md'
 ---
 
 ---
@@ -64,4 +64,8 @@ src: './pages/modifiers.md'
 
 ---
 src: './pages/important.md'
+---
+
+---
+src: './pages/arbitrary-values.md'
 ---
