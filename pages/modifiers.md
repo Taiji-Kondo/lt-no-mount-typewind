@@ -5,7 +5,7 @@ layout: default
 # Modifiers
 
 - `hover`、`before`等の疑似要素、擬似クラス
-- `tw.hover(...)`という関数実行で指定
+- `tw.hover()`として引数に当てたいクラスを渡す
 
 ```tsx
 const Normal = () => {

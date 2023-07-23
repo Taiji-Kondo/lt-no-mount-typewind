@@ -61,3 +61,7 @@ src: './pages/default-usage.md'
 ---
 src: './pages/modifiers.md'
 ---
+
+---
+src: './pages/important.md'
+---
