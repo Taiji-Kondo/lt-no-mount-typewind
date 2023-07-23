@@ -23,7 +23,7 @@ const TailWindButton = () => {
 // 😎
 const TypeWindButton = () => {
   return (
-    <button className={tw.bg_blue_500.text_white.text_lg.font_bold.py_2.px_4.rounded.shadow_sm.hover__bg_blue_700}>
+    <button className={tw.bg_blue_500.text_white.text_lg.font_bold.py_2.px_4.rounded.shadow_sm.hover(bg_blue_700)}>
       Click me
     </button>
   );
