@@ -14,7 +14,9 @@ src: './pages/profile.md'
 src: './pages/do-you-use-tailwind.md'
 ---
 
-[//]: # (TODO: Tailwindを簡単に説明)
+---
+src: './pages/about-tailwind.md'
+---
 
 ---
 src: './pages/tailwind-pros.md'
