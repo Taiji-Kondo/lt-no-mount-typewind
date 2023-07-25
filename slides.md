@@ -39,6 +39,10 @@ src: './pages/about-typescript.md'
 ---
 
 ---
+src: './pages/typescript-sample.md'
+---
+
+---
 src: './pages/typescript-feature.md'
 ---
 
