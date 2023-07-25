@@ -34,7 +34,9 @@ src: './pages/tailwind-cons.md'
 src: './pages/do-you-use-typescript.md'
 ---
 
-[//]: # (TODO: TypeScriptを簡単に説明)
+---
+src: './pages/about-typescript.md'
+---
 
 ---
 src: './pages/typescript-feature.md'

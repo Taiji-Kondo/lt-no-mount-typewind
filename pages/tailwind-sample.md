@@ -15,7 +15,7 @@ layout: default
     width: 40px;
     height: 20px;
     background-color: #ef4444;
-    border-radius: 0.25rem; /*4px*/
+    border-radius: 0.25rem; /* 4px */
 }
 ```
 
