@@ -2,4 +2,11 @@
 layout: center
 ---
 
-<h1>型がある = 補完が効く = 開発スピードUP<twemoji-smiling-face /></h1>
+## 型があれば
+
+- コンパイル時にエラーに気づける
+- 代入ミスが減る
+- 補完が出る
+- タイポが減る
+
+<h1 class="mt-10">総じて開発スピードUPにつながる<twemoji-smiling-face /></h1>
