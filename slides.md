@@ -19,6 +19,10 @@ src: './pages/about-tailwind.md'
 ---
 
 ---
+src: './pages/tailwind-sample.md'
+---
+
+---
 src: './pages/tailwind-pros.md'
 ---
 
