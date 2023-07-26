@@ -89,3 +89,7 @@ src: './pages/other.md'
 ---
 src: './pages/remark.md'
 ---
+
+---
+src: './pages/end.md'
+---
