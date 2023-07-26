@@ -1,6 +1,6 @@
 ---
 layout: intro-image
-image: '../assets/cover_image.jpg'
+image: '../assets/images/cover_image.jpg'
 ---
 
 <div class="absolute top-20 bottom-20 left-20 right-20">

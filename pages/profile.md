@@ -18,5 +18,5 @@ layout: two-cols
 ::right::
 
 <div class="flex items-center justify-center h-full">
-    <img class="h-50" src="/assets/profile_image.png" />
+    <img class="h-50" src="/assets/images/profile_image.png" />
 </div>
